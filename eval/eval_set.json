@@ -1,0 +1,150 @@
+{
+  "in_scope": [
+    {
+      "question": "How many days of annual leave do I get each year?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Annual Leave"
+    },
+    {
+      "question": "What happens to unused vacation days at the end of the year?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Annual Leave"
+    },
+    {
+      "question": "Do I need a doctor's note if I am ill for three days in a row?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Sick Leave"
+    },
+    {
+      "question": "How long is parental leave for new fathers?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Maternity and Paternity Leave"
+    },
+    {
+      "question": "How early must I apply for time off?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Leave Approval"
+    },
+    {
+      "question": "What compensation do I get if I have to work on a national holiday?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Public Holidays"
+    },
+    {
+      "question": "Can I take a career break without pay?",
+      "expected_source": "leave_policy.md",
+      "expected_section": "Unpaid Leave"
+    },
+    {
+      "question": "Can I fly business class on a long flight?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Travel Reimbursement"
+    },
+    {
+      "question": "What is the maximum hotel rate per night in a big city?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Travel Reimbursement"
+    },
+    {
+      "question": "How much food money do I get per day on a work trip?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Meal Allowance"
+    },
+    {
+      "question": "By when should I file my expense report?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Claim Submission"
+    },
+    {
+      "question": "How long until the money for an approved claim reaches me?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Reimbursement Timeline"
+    },
+    {
+      "question": "What is the limit on gifts for customers?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Client Entertainment"
+    },
+    {
+      "question": "How much am I paid per km for driving my own car for work?",
+      "expected_source": "expense_policy.md",
+      "expected_section": "Mileage"
+    },
+    {
+      "question": "After how many months of service can I start working from home?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Eligibility"
+    },
+    {
+      "question": "How many days a week do I need to be in the office?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Hybrid Schedule"
+    },
+    {
+      "question": "During which hours must I be reachable online?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Hybrid Schedule"
+    },
+    {
+      "question": "How much money do I get to set up my home desk?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Equipment"
+    },
+    {
+      "question": "Can I work from a different country for a month?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Working From Another Location"
+    },
+    {
+      "question": "Do I need a VPN when working from a cafe?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Security Requirements"
+    },
+    {
+      "question": "How fast should I reply to chat messages while remote?",
+      "expected_source": "remote_work_policy.md",
+      "expected_section": "Performance and Availability"
+    },
+    {
+      "question": "How often do I need to change my password?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Password Requirements"
+    },
+    {
+      "question": "What is the minimum password length?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Password Requirements"
+    },
+    {
+      "question": "How quickly must I report a suspected hack?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Incident Reporting"
+    },
+    {
+      "question": "Can I plug a pen drive into my work laptop?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Removable Media"
+    },
+    {
+      "question": "How long do we keep customer records after they leave?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Data Retention"
+    },
+    {
+      "question": "What should I do with a suspicious email?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Phishing"
+    },
+    {
+      "question": "What do I need before sharing confidential files with a vendor?",
+      "expected_source": "data_security_policy.md",
+      "expected_section": "Third-Party Sharing"
+    }
+  ],
+  "out_of_scope": [
+    "What is the capital of France?",
+    "Write me a poem about the ocean.",
+    "Who won the cricket world cup?",
+    "Explain how photosynthesis works."
+  ]
+}
