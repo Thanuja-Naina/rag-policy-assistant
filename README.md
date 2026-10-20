@@ -38,7 +38,7 @@ python monitor.py                     # after some questions: routing, latency, 
 ```
 Docker: `docker build -t policy-assistant . && docker run -p 8000:8000 -e GROQ_API_KEY=your_key policy-assistant`
 
-**Live demo:** _paste your Hugging Face Space link here after deploying (see DEPLOY.md at the top of the portfolio)._
+**Live demo:** https://rag-policy-assistant-7hthyjtrytvjsezbvq7ywf.streamlit.app/
 
 ## Evaluation
 `python evaluate.py` checks, for 28 paraphrased questions, whether the right policy file is found.
